@@ -1,0 +1,28 @@
+{
+  "name": "react-hook-form-usefieldarray-nested-arrays",
+  "version": "1.0.0",
+  "description": "A custom hook for working with Field Arrays (dynamic inputs).",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-hook-form": "7.11.1",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
